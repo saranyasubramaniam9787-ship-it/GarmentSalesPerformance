@@ -1,2 +1,2 @@
-# GarmentSalesPerformance
-This project analyzes garments sales data using Excel to evaluate category-wise and product-wise performance. It examines sales, profit, profit margin, discount impact, regional and segment trends, and revenue forecasting through an interactive dashboard to support business decisions. The dashboard highlights products and low-performing categories.
+# Garments Sales Performance Analysis
+This project analyzes garments sales data using Excel to evaluate category-wise and product-wise performance. It includes sales, profit, profit margin, discount impact, region-wise and segment-wise trends, and revenue forecasting using an interactive dashboard.
