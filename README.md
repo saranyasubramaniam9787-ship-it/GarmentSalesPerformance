@@ -12,3 +12,7 @@ Microsoft Excel
 Pivot Tables & Pivot Charts
 Formulas (Profit, Profit Margin, Forecast)
 Slicers & Dashboard
+
+## Files
+- Garments-Accessories-SalesPerformance.xlsx – Dataset and dashboard
+- Project_Documentation_of_SalesPerformance.docx – Project report
