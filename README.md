@@ -1,4 +1,4 @@
-# Garments Sales Performance Analysis
+# E-COMMERCE SALES PERFORMANCE AND REVENUE ANALYSIS
 Project Description
   This project analyzes garments sales data using Excel to evaluate overall business performance. It includes category-wise and product-wise sales, profit and profit margin analysis, discount impact on profitability, region-wise and segment-wise performance, and revenue forecasting. An interactive dashboard is created to visualize insights and support data-driven decision-making.
 Objectives:
