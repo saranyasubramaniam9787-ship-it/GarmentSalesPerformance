@@ -4,7 +4,7 @@
 This project analyzes garment sales data to evaluate overall business performance. It focuses on category-wise and segment-wise sales, identification of top-performing and low-performing products, regional performance, discount impact on profitability, and sales trends over time.  
 The project also includes revenue forecasting for the next six months and presents insights using interactive dashboards created in Microsoft Excel.
 
----
+
 
 ## Installation Instructions
 - Install Microsoft Excel (2016 or later recommended)
