@@ -13,7 +13,7 @@ The project also includes revenue forecasting for the next six months and presen
 - Enable editing and formulas if prompted
 - Refresh pivot tables and charts to view updated results
 
----
+
 
 ## Data Sources
 The dataset contains transactional sales records with the following fields:
@@ -33,7 +33,7 @@ The dataset contains transactional sales records with the following fields:
 - City_ID  
 - Segment (B2B / B2C)
 
----
+
 
 ## Code Structure
 ### Data Cleaning & Transformation
@@ -56,7 +56,7 @@ Pivot tables and charts used for:
 - Segment-wise analysis  
 - Trend and forecast visualization  
 
----
+
 
 ## Results and Evaluation
 ### Key Insights
@@ -72,7 +72,7 @@ Pivot tables and charts used for:
 - December is expected to have the highest revenue
 - Long-term forecasts show higher uncertainty but an overall upward trend
 
----
+
 
 ## Future Work
 - Extend analysis using Power BI or Python
@@ -81,12 +81,14 @@ Pivot tables and charts used for:
 - Perform deeper regional and product-level profitability analysis
 - Expand B2B segment analysis
 
----
+
 
 ## Acknowledgments / References
 - Dataset: Internal sales transaction dataset (Snitch Fashion Sales Data)
 - Tool used: Microsoft Excel
 - Concepts: Business analytics, descriptive statistics, forecasting
 
----
+## License
+
+- This project is open-source and available under the MIT License
 
