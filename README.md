@@ -240,7 +240,7 @@ Inventory Planning
 ```bash
 git clone https://github.com/saranyasubramaniam9787-ship-it/GarmentSalesPerformance.git
 cd GarmentSalesPerformance
-
+```
 
 **Data Files Setup**
 
