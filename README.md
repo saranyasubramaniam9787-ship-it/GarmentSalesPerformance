@@ -38,9 +38,8 @@ Dataset: Garment Sales Dataset
 - **File Format:** Excel (.xlsx)
 - **Dataset Size:** ~1–2 MB
 - **Total Transactions:** 2,391
+- **Source**-The dataset used in this project was provided as part of an academic exercise for learning data analysis.
 
-Dataset: Snitch Fashion Sales Dataset
-From Entri Elevate
 
 **Description**:  
 The dataset contains transactional records of sales across multiple products, categories, cities, and customer segments. Each row represents a single order including customer information, product details, pricing, discounts, revenue, and profit.
