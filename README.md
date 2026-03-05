@@ -238,9 +238,9 @@ Inventory Planning
 **Clone the Repository**
 
 ```bash
-git clone <[repository-url](https://github.com/saranyasubramaniam9787-ship-it/GarmentSalesPerformance.git)>
-cd ecommerce-sales-analysis
-```
+git clone https://github.com/saranyasubramaniam9787-ship-it/GarmentSalesPerformance.git
+cd GarmentSalesPerformance
+
 
 **Data Files Setup**
 
