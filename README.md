@@ -1,4 +1,4 @@
-Sales and Profitability Insights Across Customer Segments
+## Sales and Profitability Insights Across Customer Segments
 📖 Table of Contents
 Project Overview
 Data Source
