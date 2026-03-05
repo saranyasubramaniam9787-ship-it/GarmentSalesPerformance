@@ -234,9 +234,99 @@ Prerequisites
 - Python 3.8 or later (optional)
 - Power BI Desktop (optional)
 
-Python Dependencies
 
-pandas  
-numpy  
-matplotlib  
-seaborn
+**Dependencies (Python)**
+
+- pandas  
+- numpy  
+- matplotlib  
+- seaborn  
+- scikit-learn  
+
+
+**Installation**
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+
+
+**Steps to Run**
+
+**Clone the Repository**
+
+```bash
+git clone <repository-url>
+cd <project-folder>
+```
+
+
+**Data Files**
+
+Ensure the **Snitch_Fashion_Sales_Data_Set.csv** file is placed inside the **/data** folder.
+
+
+**Excel Analysis**
+
+- Open **Sales_Analysis_Workbook.xlsx**
+- Enable macros if prompted
+- Navigate through different sheets for cleaned data, analysis, and visualizations
+
+
+**Python Analysis (Optional)**
+
+```bash
+jupyter notebook
+```
+
+- Open **sales_analysis.ipynb**
+- Run all cells to execute the complete analysis
+
+
+**Power BI Dashboard (Optional)**
+
+- Open **Sales_Performance_Dashboard.pbix** in Power BI Desktop
+- Click **Refresh** to load the latest data
+- Explore interactive visualizations
+
+
+**Output**
+
+- Cleaned dataset stored in the **/output** folder
+- Statistical summary reports
+- Visual dashboards showing sales trends, profitability, and forecasts
+- Six-month revenue forecast with confidence intervals
+
+
+**Dashboard Screenshots**
+
+**Category-wise Sales Performance**
+
+- Dresses lead with the highest revenue and units sold
+- Accessories, Jackets, and T-Shirts show moderate performance
+
+
+**Top-Selling Products**
+
+- Casual Midi  
+- Crop Top  
+- Graphic Tee  
+- Maxi Dress  
+
+
+**Regional Sales Analysis**
+
+- Hyderabad and Mumbai dominate sales
+- Ahmedabad, Bangalore, Delhi, and Pune show varying performance
+
+
+**Sales Trends Over Time (2023–2025)**
+
+- Clear growth trajectory observed
+- Seasonal patterns identified
+
+
+**Revenue Forecast Analysis**
+
+- Upward trend from July to December
+- Upper and lower confidence bounds displayed
