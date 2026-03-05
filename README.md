@@ -31,14 +31,19 @@ This project analyzes sales performance and profitability across different custo
 
 **Data Source**
 
+Dataset: Garment Sales Dataset  
+
+- **Records:** 1,500+ sales transactions  
+- **Variables:** Product Category, Product Name, Sales Amount, Profit, Discount, City, Customer Type, Date  
+- **File Format:** Excel (.xlsx)
+- **Dataset Size:** ~1–2 MB
+- **Total Transactions:** 2,391
+
 Dataset: Snitch Fashion Sales Dataset
+From Entri Elevate
 
-Description:  
+**Description**:  
 The dataset contains transactional records of sales across multiple products, categories, cities, and customer segments. Each row represents a single order including customer information, product details, pricing, discounts, revenue, and profit.
-
-Dataset Size
-
-- Total Transactions: 2,391
 
 **Key Variables**
 
@@ -61,14 +66,10 @@ Dataset Size
 
 **Tools & Technologies**
 
-Languages and Analysis Tools
-
 - Excel – Data cleaning and statistical analysis
-- Python – Pandas, NumPy, Matplotlib, Seaborn
 
 Visualization Tools
 
-- Power BI
 - Excel Charts
 
 Database
@@ -77,7 +78,7 @@ Database
 
 Documentation
 
-- Jupyter Notebook
+- Microsoft Word
 - Excel
 
 Statistical Analysis
@@ -225,31 +226,12 @@ Inventory Planning
 - Use forecast insights to optimize inventory levels
 - Prepare for increased demand during November–December
 
-
 **How to Use**
 
-Prerequisites
+**Prerequisites**
 
 - Microsoft Excel (2016 or later)
-- Python 3.8 or later (optional)
-- Power BI Desktop (optional)
-
-
-**Dependencies (Python)**
-
-- pandas  
-- numpy  
-- matplotlib  
-- seaborn  
-- scikit-learn  
-
-
-**Installation**
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
+- Power BI Desktop (optional, for dashboard visualization)
 
 **Steps to Run**
 
@@ -257,46 +239,30 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ```bash
 git clone <repository-url>
-cd <project-folder>
+cd ecommerce-sales-analysis
 ```
 
+**Data Files Setup**
 
-**Data Files**
-
-Ensure the **Snitch_Fashion_Sales_Data_Set.csv** file is placed inside the **/data** folder.
-
+- Place the **E-Commerce_Sales_Dataset.xlsx** file in the `/data` folder.
+- Ensure all worksheets (Customer, Product, Store, Sales) are available.
 
 **Excel Analysis**
 
-- Open **Sales_Analysis_Workbook.xlsx**
+- Open **Ecommerce_Analysis_Workbook.xlsx**
 - Enable macros if prompted
-- Navigate through different sheets for cleaned data, analysis, and visualizations
-
-
-**Python Analysis (Optional)**
-
-```bash
-jupyter notebook
-```
-
-- Open **sales_analysis.ipynb**
-- Run all cells to execute the complete analysis
-
-
-**Power BI Dashboard (Optional)**
-
-- Open **Sales_Performance_Dashboard.pbix** in Power BI Desktop
-- Click **Refresh** to load the latest data
-- Explore interactive visualizations
-
+- Navigate through the following sheets:
+  - Raw Data
+  - Cleaned Data
+  - Analysis
+  - Visualizations
 
 **Output**
 
-- Cleaned dataset stored in the **/output** folder
+- Cleaned dataset in `/output`
 - Statistical summary reports
-- Visual dashboards showing sales trends, profitability, and forecasts
-- Six-month revenue forecast with confidence intervals
-
+- Excel charts and visual analysis
+- Dashboard insights
 
 **Dashboard Screenshots**
 
