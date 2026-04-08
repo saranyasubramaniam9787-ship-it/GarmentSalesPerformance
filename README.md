@@ -1,4 +1,6 @@
-***Sales and Profitability Insights Across Customer Segments***
+# Sales and Profitability Insights Across Customer Segments
+
+This project analyzes sales performance and profitability across different customer segments, product categories, and regions. The objective is to identify high-performing and underperforming products, analyze sales trends, evaluate the impact of discounts on profitability, and forecast future revenue for better business decision-making.
 
 ## 📖 Table of Contents
 - [Project Overview](#-project-overview)
