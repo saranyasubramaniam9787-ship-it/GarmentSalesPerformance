@@ -242,12 +242,12 @@ cd GarmentSalesPerformance
 
 **Data Files Setup**
 
-- Place the **E-Commerce_Sales_Dataset.xlsx** file in the `/data` folder.
+- Place the **Garments-Accessories-Sales Performance.xlsx** file in the `/data` folder.
 - Ensure all worksheets (Customer, Product, Store, Sales) are available.
 
 **Excel Analysis**
 
-- Open **Ecommerce_Analysis_Workbook.xlsx**
+- Open **Garments-Accessories-Sales Performance.xlsx**
 - Enable macros if prompted
 - Navigate through the following sheets:
   - Raw Data
